@@ -80,7 +80,7 @@ In addition to the infrastructure, this repository includes YAML configurations 
 These resources can be applied using:
 
 ```bash
-kubectl apply -f kubernetes/
+kubectl apply -f manifest/
 ```
 
 ## Monitoring Setup with Prometheus and Grafana
